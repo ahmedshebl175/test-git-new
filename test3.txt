@@ -1,2 +1,2 @@
-Hello I am someone and I am special because I was created from feaure2 branch.
-hello I am line 2 from the feature4 branch.
+I am the second line from master branch
+
